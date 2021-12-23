@@ -1,10 +1,10 @@
 # Rapid Democracy RFC
 
-RFC STATUS: **WORKING-DRAFT**
-Prepared for: The HumLow Foundation
-Prepared by: DS on behalf of the Acting Board
-Document identifier: RFC-2021-12-21-RD / RFC ID: TBD
-The 21st of December 2021
+RFC STATUS: **WORKING-DRAFT**<br>
+Prepared for: The HumLow Foundation<br>
+Prepared by: DS on behalf of the Acting Board<br>
+Document identifier: RFC-2021-12-21-RD / RFC ID: TBD<br>
+The 21st of December 2021<br>
 
 ## §1 Executive Summary
 
