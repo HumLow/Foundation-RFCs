@@ -6,4 +6,4 @@ Collaborate on RFCs and take part in shaping the way forward for the HumLow Foun
 ## Browse RFCs
 
 ### Working Drafts
- - [Rapid Democracy](RFC-Rapid-Democracy-Working-Draft)
+ - [Rapid Democracy](https://humlow.github.io/Foundation-RFCs/RFC-Rapid-Democracy-Working-Draft)
